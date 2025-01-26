@@ -1,0 +1,15 @@
+[build-system]
+requires      = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name        = "upm"
+description = "universal playlist manager"
+authors     = [{name = "Llawn", email = "llawn06@gmail.com"}]
+maintainers = [{name = "Llawn", email = "llawn06@gmail.com"}]
+
+readme = "README.md"
+license = {file = "LICENSE"}
+
+version         = "0.0.1"
+requires-python = ">=3.13"
