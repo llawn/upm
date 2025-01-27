@@ -1,2 +1,6 @@
+deezer-python
+dynaconf
+openpyxl
 pandas
+selenium
 spotipy
